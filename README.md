@@ -1,5 +1,5 @@
 # About this REPO
-This repo is the work of (rcmdnk)[https://github.com/rcmdnk/vim_ahk]. I only modified it to suite my needs and I removed the fork since 
+This repo is the work of [rcmdnk](https://github.com/rcmdnk/vim_ahk). I only modified it to suite my needs and I removed the fork since 
 i won't be creating any pull requests from this or pulling any new updates from the snapshot that i got. All credit for the work here goes to rcmdnk.
 
 # vim_ahk
